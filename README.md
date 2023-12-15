@@ -9,4 +9,4 @@ Engineering Student
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [adiaparmar@gmail.com](mailto:adiaparmar@gmail.com)
 *   🚀  I'm currently working on [Projects](http://https://github.com/Adiaparmar?tab=repositories)
-*   🧠  I'm learning Full stack Web Development### Skills 
+*   🧠  I'm learning Full stack Web Development
