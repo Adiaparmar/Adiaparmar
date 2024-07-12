@@ -4,7 +4,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Adiaparmar&color=0e75b6)
 
 
-🌱 I’m currently learning NextJS and working on Projects
+🌱 I’m currently learning Mern Stack and working on Projects
 
 💬 Ask me about Web Development & MERN Stack
 
