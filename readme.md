@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 
-# **Hi, I'm Aditya Kumar Singh**
+# **Hi, I'm Aditya Kumar Singh** <br/>
 
 🌱 I’m currently learning React Native and working on Projects
 
@@ -12,6 +12,7 @@
 📫 Reach me out here - adiaparmar@gmail.com
 
 📄 Know about my experiences -> https://www.linkedin.com/in/adiaparmar/
+
 👨‍💻 Main Languages
 - Javascript 🧑‍💻
 - C++ 💻
