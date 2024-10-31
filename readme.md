@@ -18,8 +18,11 @@
 [![](https://visitcount.itsvg.in/api?id=Adiaparmar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/adiaparmar)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiaparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiaparmar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adiaparmar) 
+[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@adiaparmar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/adiaparmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/adiaparmar/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Adiaparmar)
+
 
 ## 💻 Languages & Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -65,7 +68,7 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=tokyonight&hide_border=false"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&theme=tokyonight&hide_border=flase&include_all_commits=true&count_private=true&layout=compact"></td>
    <td><img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&theme=tokyonight&hide_border=false"></td>
-   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&langs_count=8&theme=tokyonight&layout=compact&hide_border=false"></td>
+   <td><img src="https://githubreadmestats.vercel.app/apiusername=Adiaparmar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast"></td>
   </tr>
 </table>
 
@@ -74,6 +77,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Adiaparmar&theme=tokyonight&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
-
+<img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
