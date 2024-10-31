@@ -1,7 +1,7 @@
  ![Cool GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-# 💫 About Me:
+## 💫 About Me:
 
 # **Hi, I'm Aditya Kumar Singh**
 
@@ -18,9 +18,10 @@
 [![](https://visitcount.itsvg.in/api?id=Adiaparmar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
- [![Github](https://img.shields.io/badge/github-%2324292e.svg?logo=github&logoColor=white)](https://github.com/Adiaparmar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiaparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiaparmar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adiaparmar) 
+[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/adiaparmar)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiaparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiaparmar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adiaparmar) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -58,7 +59,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=tokyonight&hide_border=false"></td>
@@ -66,7 +67,7 @@
   </tr>
 </table>
 
- # 🏆GitHub Trophies
+ ## 🏆GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adiaparmar&theme=tokyonight&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
