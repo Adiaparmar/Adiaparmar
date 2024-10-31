@@ -19,7 +19,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Adiaparmar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Adiaparmar&color=0e75b6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@adiaparmar)
@@ -78,7 +78,8 @@
   </tr>
 </table>
 
-
+<br/>
+<hr>
  ## 🏆GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adiaparmar&theme=tokyonight&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
