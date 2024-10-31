@@ -5,10 +5,13 @@
 
 # **Hi, I'm Aditya Kumar Singh**
 
+🌱 I’m currently learning React Native and working on Projects
 
-📚 I'm currently learning Data Structures and Algorithms.<br>
-🤖 I'm an MERN Stack enthusiast.<br>
-🤓 Fun-fact: Just a nerd who thinks he's cool <br>
+💬 Ask me about Web Development & MERN Stack
+
+📫 Reach me out here - adiaparmar@gmail.com
+
+📄 Know about my experiences -> https://www.linkedin.com/in/adiaparmar/
 👨‍💻 Main Languages
 - Javascript 🧑‍💻
 - C++ 💻
@@ -65,12 +68,15 @@
 ## 📊 GitHub Stats:
 <table>
   <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&theme=tokyonight&hide_border=false"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=tokyonight&hide_border=false"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&theme=tokyonight&hide_border=flase&include_all_commits=true&count_private=true&layout=compact"></td>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&theme=tokyonight&hide_border=false"></td>
-   <td><img src="https://githubreadmestats.vercel.app/apiusername=Adiaparmar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&langs_count=8&theme=tokyonight&layout=compact&hide_border=false"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&hide_border=false"></td>
   </tr>
 </table>
+
 
  ## 🏆GitHub Trophies
 <div align="center">
