@@ -21,7 +21,7 @@
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/adiaparmar)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiaparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiaparmar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adiaparmar) 
 
-## 💻 Tech Stack:
+## 💻 Languages & Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -64,6 +64,8 @@
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=tokyonight&hide_border=false"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&theme=tokyonight&hide_border=flase&include_all_commits=true&count_private=true&layout=compact"></td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&theme=tokyonight&hide_border=false"></td>
+   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&langs_count=8&theme=tokyonight&layout=compact&hide_border=false"></td>
   </tr>
 </table>
 
