@@ -78,13 +78,18 @@
   </tr>
 </table>
 
-<br/>
-<hr>
+
  ## 🏆GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adiaparmar&theme=tokyonight&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<br/>
+<hr>
 <img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
