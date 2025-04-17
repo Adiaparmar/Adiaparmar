@@ -70,8 +70,7 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=tokyonight&hide_border=false"></td>
   </tr>
   <tr>
-    [[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar)](https://github.com/anuraghazra/github-readme-stats)
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&hide_border=false"></td>
+    <td><img src="https://github-readme-stats.vercel.app/apiusername=Adiaparmar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&hide_border=false"></td>
   </tr>
 </table>
 
