@@ -191,7 +191,7 @@ research_interests:
 ---
 
 <div align="center">
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Adiaparmar/Adiaparmar/blob/output/github-snake-dark.svg)
 </div>
 
 ---
