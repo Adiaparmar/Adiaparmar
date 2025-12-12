@@ -89,17 +89,17 @@ research_interests:
   <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/🦜%20LangChain-121212?style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge" alt="Anthropic"/>
-  <img src="https://img.shields.io/badge/🦙%20LlamaIndex-8B5CF6?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" alt="Ollama"/>
 </p>
 
 ### 🗄️ Vector Databases & RAG
 <p>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Weaviate-00C8B5?style=for-the-badge" alt="Weaviate"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Embeddings-FF6F61?style=for-the-badge" alt="Embeddings"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-4CAF50?style=for-the-badge" alt="Semantic Search"/>
 </p>
 
 ### 📊 Data Science & Analysis
