@@ -170,7 +170,6 @@ research_interests:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiaparmar&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
@@ -191,17 +190,9 @@ research_interests:
 
 ---
 
-## 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adiaparmar/Adiaparmar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adiaparmar/Adiaparmar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adiaparmar/Adiaparmar/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adiaparmar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</p>
+<div align="center">
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
