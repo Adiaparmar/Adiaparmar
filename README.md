@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-</div>
+</div> 
 
 <h1 align="center">Hi there 👋, I'm Aditya Kumar Singh</h1>
 
@@ -30,12 +30,7 @@ research_interests:
   - Prompt Engineering & Chain-of-Thought
 ```
 
-<p align="center">
-  📫 <strong>Reach me:</strong> <a href="mailto:adiaparmar@gmail.com">adiaparmar@gmail.com</a><br>
-  📄 <strong>Professional Profile:</strong> <a href="https://www.linkedin.com/in/adiaparmar/">LinkedIn</a>
-</p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -43,14 +38,8 @@ research_interests:
   <a href="https://www.linkedin.com/in/adiaparmar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/Adiaparmar">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X"/>
-  </a>
-  <a href="https://instagram.com/adiaparmar">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  </a>
-  <a href="https://www.threads.net/@adiaparmar">
-    <img src="https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white&style=for-the-badge" alt="Threads"/>
+  <a href="mailto:adiaparmar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
 </p>
 
@@ -81,11 +70,12 @@ research_interests:
   </tr>
 </table>
 </div>
----
+
 
 ## 🤖 AI/ML Tech Stack
 
 ### 🧠 Core AI/ML Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -170,10 +160,11 @@ research_interests:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
 </p>
 
 ---
@@ -184,17 +175,11 @@ research_interests:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiaparmar&theme=radical" alt="GitHub Profile Summary"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adiaparmar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
 
 <div align="center">
-  ![snake gif](https://github.com/Adiaparmar/Adiaparmar/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Adiaparmar/Adiaparmar/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
 
 ## ✍️ Random Dev Quote
 
@@ -206,15 +191,15 @@ research_interests:
 
 ## 💡 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Adiaparmar?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-  </a>
-</p>
+<div align="center">
 
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=AI-Study-Material-Generator&theme=radical)](https://github.com/Adiaparmar/AI-Study-Material-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=Agentic-Chatbot-FastAPI&theme=radical)](https://github.com/Adiaparmar/Agentic-Chatbot-FastAPI)
+
+</div>
+
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/Adiaparmar">Adiaparmar</a></p>
-  <p><em>Thanks for visiting! Feel free to reach out for collaborations or discussions on AI/ML</em></p>
+  <p><em>Thanks for visiting! Feel free to reach out for collaborations or discussions</em></p>
 </div>
