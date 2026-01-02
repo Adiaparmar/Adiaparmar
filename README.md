@@ -1,12 +1,9 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-</div> 
+
 
 <h1 align="center">Hi there 👋, I'm Aditya Kumar Singh</h1>
 
 <p align="center">
   <em>Engineering Student passionate about pushing the boundaries of LLMs</em><br>
-  <em>Every model is a lesson, and every fine-tune is an opportunity for mastery. ✨</em>
 </p>
 
 <p align="center">
@@ -44,32 +41,6 @@ research_interests:
 </p>
 
 ---
-
-## 🔬 Current Research & Projects
-<div align="center">
-<table>
-  <tr>
-    <td>🧠</td>
-    <td><strong>Advanced RAG Systems</strong><br/>Building production-grade retrieval pipelines with hybrid search and reranking</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><strong>LLM Fine-tuning</strong><br/>Implementing LoRA/QLoRA for domain-specific model adaptation</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td><strong>Multi-agent AI</strong><br/>Developing autonomous agent systems for complex problem-solving</td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td><strong>Model Optimization</strong><br/>Quantization, pruning, and efficient inference strategies</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td><strong>Evaluation Frameworks</strong><br/>Custom benchmarks and metrics for LLM output quality</td>
-  </tr>
-</table>
-</div>
 
 
 ## 🤖 AI/ML Tech Stack
