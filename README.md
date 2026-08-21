@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![projects](./project.svg)]
+![projects](./project.svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![skills](./skills_svg_preview.svg)]
+![skills](./skills_svg_preview.svg)
 
 </div>
 
