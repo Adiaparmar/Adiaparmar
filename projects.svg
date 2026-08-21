@@ -1,0 +1,96 @@
+<svg width="100%" viewBox="0 0 680 620" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Aditya Kumar Singh – selected projects</title>
+<desc>Four project cards in a 2x2 grid with dark terminal aesthetic</desc>
+
+<rect width="680" height="620" fill="#0d1117" rx="12"/>
+
+<text x="30" y="36" font-family="'Courier New', monospace" font-size="11" fill="#58a6ff">// selected projects</text>
+<line x1="200" y1="32" x2="650" y2="32" stroke="#30363d" stroke-width="0.5"/>
+
+<!-- Card 1: ScrumFlow-AI (amber) -->
+<rect x="30" y="50" width="300" height="250" fill="#161b22" rx="8" stroke="#30363d" stroke-width="0.5"/>
+<rect x="30" y="50" width="300" height="3" fill="#ffa657" rx="2"/>
+<text x="48" y="76" font-family="'Courier New', monospace" font-size="10" fill="#ffa657">MULTI-AGENT · AWS · 2026</text>
+<text x="48" y="98" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">ScrumFlow.ai</text>
+<text x="48" y="118" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">4-agent parallel pipeline converting</text>
+<text x="48" y="134" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">meeting audio into structured sprint</text>
+<text x="48" y="150" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">artifacts. Whisper + Pyannote for</text>
+<text x="48" y="166" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">diarization, Gemini 2.5 Flash for</text>
+<text x="48" y="182" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">agent reasoning.</text>
+<rect x="48" y="196" width="52" height="16" fill="#1f1a0f" rx="3" stroke="#3b2a0a" stroke-width="0.5"/>
+<text x="74" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffa657">Whisper</text>
+<rect x="106" y="196" width="62" height="16" fill="#1f1a0f" rx="3" stroke="#3b2a0a" stroke-width="0.5"/>
+<text x="137" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffa657">Gemini 2.5</text>
+<rect x="174" y="196" width="36" height="16" fill="#1f1a0f" rx="3" stroke="#3b2a0a" stroke-width="0.5"/>
+<text x="192" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffa657">AWS</text>
+<rect x="216" y="196" width="48" height="16" fill="#1f1a0f" rx="3" stroke="#3b2a0a" stroke-width="0.5"/>
+<text x="240" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffa657">FastAPI</text>
+<line x1="48" y1="222" x2="312" y2="222" stroke="#30363d" stroke-width="0.5"/>
+<text x="48" y="239" font-family="'Courier New', monospace" font-size="10" fill="#ffa657">Top 300 · AWS 10,000 AI Ideas</text>
+<text x="48" y="256" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">&#x2192; github.com/Adiaparmar/ScrumFlow-AI</text>
+
+<!-- Card 2: DebriefAI (purple) -->
+<rect x="348" y="50" width="302" height="250" fill="#161b22" rx="8" stroke="#30363d" stroke-width="0.5"/>
+<rect x="348" y="50" width="302" height="3" fill="#c084fc" rx="2"/>
+<text x="366" y="76" font-family="'Courier New', monospace" font-size="10" fill="#c084fc">RAG · LOCAL-FIRST · 2025</text>
+<text x="366" y="98" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">DebriefAI</text>
+<text x="366" y="118" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Local-first meeting intelligence system.</text>
+<text x="366" y="134" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">YouTube/audio &#x2192; transcription &#x2192;</text>
+<text x="366" y="150" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">map-reduce summarization &#x2192; RAG</text>
+<text x="366" y="166" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Q&amp;A. Hindi fine-tuned Whisper</text>
+<text x="366" y="182" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">routing built in.</text>
+<rect x="366" y="196" width="66" height="16" fill="#1a0f2e" rx="3" stroke="#3b1f6b" stroke-width="0.5"/>
+<text x="399" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#c084fc">ChromaDB</text>
+<rect x="438" y="196" width="58" height="16" fill="#1a0f2e" rx="3" stroke="#3b1f6b" stroke-width="0.5"/>
+<text x="467" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#c084fc">LangChain</text>
+<rect x="502" y="196" width="50" height="16" fill="#1a0f2e" rx="3" stroke="#3b1f6b" stroke-width="0.5"/>
+<text x="527" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#c084fc">Mistral</text>
+<rect x="558" y="196" width="46" height="16" fill="#1a0f2e" rx="3" stroke="#3b1f6b" stroke-width="0.5"/>
+<text x="581" y="208" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#c084fc">Whisper</text>
+<line x1="366" y1="222" x2="642" y2="222" stroke="#30363d" stroke-width="0.5"/>
+<text x="366" y="239" font-family="'Courier New', monospace" font-size="10" fill="#c084fc">Local inference · No data leaves machine</text>
+<text x="366" y="256" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">&#x2192; github.com/Adiaparmar/DebriefAI</text>
+
+<!-- Card 3: Invoice Extraction VLM (blue) -->
+<rect x="30" y="318" width="300" height="250" fill="#161b22" rx="8" stroke="#30363d" stroke-width="0.5"/>
+<rect x="30" y="318" width="300" height="3" fill="#58a6ff" rx="2"/>
+<text x="48" y="344" font-family="'Courier New', monospace" font-size="10" fill="#58a6ff">VLM · BENCHMARK · 2025</text>
+<text x="48" y="366" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Invoice Extraction VLM</text>
+<text x="48" y="386" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">VLM vs OCR benchmark across 400+</text>
+<text x="48" y="402" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">invoices. Hallucination detection via</text>
+<text x="48" y="418" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">fuzzy matching (85% threshold) on</text>
+<text x="48" y="434" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">SROIE ground truth. Robustness</text>
+<text x="48" y="450" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">across 10 degraded doc conditions.</text>
+<rect x="48" y="464" width="58" height="16" fill="#0c1f3b" rx="3" stroke="#0c2d6b" stroke-width="0.5"/>
+<text x="77" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#58a6ff">Qwen2-VL</text>
+<rect x="112" y="464" width="72" height="16" fill="#0c1f3b" rx="3" stroke="#0c2d6b" stroke-width="0.5"/>
+<text x="148" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#58a6ff">Llama3.2-Vision</text>
+<rect x="190" y="464" width="70" height="16" fill="#0c1f3b" rx="3" stroke="#0c2d6b" stroke-width="0.5"/>
+<text x="225" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#58a6ff">PaddleOCR</text>
+<line x1="48" y1="490" x2="312" y2="490" stroke="#30363d" stroke-width="0.5"/>
+<text x="48" y="507" font-family="'Courier New', monospace" font-size="10" fill="#58a6ff">400+ invoices · 10 condition types</text>
+<text x="48" y="524" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">&#x2192; github.com/Adiaparmar/Invoice-Extraction-VLM</text>
+
+<!-- Card 4: DocuMed (teal) -->
+<rect x="348" y="318" width="302" height="250" fill="#161b22" rx="8" stroke="#30363d" stroke-width="0.5"/>
+<rect x="348" y="318" width="302" height="3" fill="#2dd4bf" rx="2"/>
+<text x="366" y="344" font-family="'Courier New', monospace" font-size="10" fill="#2dd4bf">RAG · MEDICAL QA · 2025</text>
+<text x="366" y="366" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">DocuMed</text>
+<text x="366" y="386" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Document-grounded medical QA</text>
+<text x="366" y="402" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">system. Responses strictly grounded</text>
+<text x="366" y="418" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">in retrieved context with source</text>
+<text x="366" y="434" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">citation. Session tracking for full</text>
+<text x="366" y="450" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">conversational traceability.</text>
+<rect x="366" y="464" width="58" height="16" fill="#0a1f1e" rx="3" stroke="#0f3b38" stroke-width="0.5"/>
+<text x="395" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2dd4bf">LangChain</text>
+<rect x="430" y="464" width="48" height="16" fill="#0a1f1e" rx="3" stroke="#0f3b38" stroke-width="0.5"/>
+<text x="454" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2dd4bf">Pinecone</text>
+<rect x="484" y="464" width="46" height="16" fill="#0a1f1e" rx="3" stroke="#0f3b38" stroke-width="0.5"/>
+<text x="507" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2dd4bf">FastAPI</text>
+<rect x="536" y="464" width="54" height="16" fill="#0a1f1e" rx="3" stroke="#0f3b38" stroke-width="0.5"/>
+<text x="563" y="476" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2dd4bf">Streamlit</text>
+<line x1="366" y1="490" x2="642" y2="490" stroke="#30363d" stroke-width="0.5"/>
+<text x="366" y="507" font-family="'Courier New', monospace" font-size="10" fill="#2dd4bf">Grounded QA · No hallucinations</text>
+<text x="366" y="524" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">&#x2192; github.com/Adiaparmar/DocuMed-Medical_AI_Assistant</text>
+
+</svg>
