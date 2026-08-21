@@ -11,23 +11,17 @@
 
 <div align="center">
 
-[![projects](./projects.svg)](https://github.com/Adiaparmar)
+[![projects](./projects(1).svg)]
 
 </div>
 
 ---
 
-### `// tech stack`
+<div align="center">
 
-```
-Training & Alignment   SFT · DPO · GRPO · LoRA/QLoRA · RAG Pipelines
-ML & LLMs              PyTorch · HuggingFace Transformers · LangChain · Ollama
-Multimodal & Docs      Vision-Language Models · PaddleOCR · PDF Parsing
-Evaluation             ROUGE · METEOR · BERTScore · G-Eval · LLM-as-judge
-MLOps & Infra          MLflow · Weights & Biases · Docker · FastAPI · Remote GPU
-Databases              PostgreSQL · Pinecone · Neon DB · MongoDB
-Languages              Python · C/C++
-```
+[![skills](./skills_svg_preview.svg)]
+
+</div>
 
 ---
 
