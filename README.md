@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![projects](./projects (1).svg)]
+[![projects](./project.svg)]
 
 </div>
 
