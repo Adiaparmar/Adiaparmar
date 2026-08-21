@@ -1,176 +1,44 @@
+<div align="center">
 
+![header](./header.svg)
 
-<h1 align="center">Hi there 👋, I'm Aditya Kumar Singh</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiaparmar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adiaparmar.dev@gmail.com)
 
-<p align="center">
-  <em>Engineering Student passionate about pushing the boundaries of LLMs</em><br>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adiaparmar&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Adiaparmar?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Adiaparmar?label=Stars&style=flat-square&color=0e75b6" alt="Stars"/>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
-```yaml
-name: Aditya Kumar Singh
-role: Open for AI/ML Research Assistant roles 
-focus: [LLMs, RAG Systems, Model Fine-tuning, Multi-agent Systems]
-currently_learning: [Advanced RAG pipelines, LoRA/QLoRA, Vector Databases, LLM deployment]
-research_interests: 
-  - Retrieval-Augmented Generation
-  - Few-shot & Zero-shot Learning
-  - Model Compression & Optimization
-  - Prompt Engineering & Chain-of-Thought
+### `// selected projects`
+
+<div align="center">
+
+[![ScrumFlow-AI](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=ScrumFlow-AI&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/ScrumFlow-AI)
+[![Invoice-Extraction-VLM](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=Invoice-Extraction-VLM&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/Invoice-Extraction-VLM)
+
+[![DocuMed-Medical_AI_Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=DocuMed-Medical_AI_Assistant&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/DocuMed-Medical_AI_Assistant)
+[![Kidney-Disease-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=Kidney-Disease-Classification&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/Kidney-Disease-Classification)
+
+</div>
+
+> **ScrumFlow.ai** — Top 300 globally, AWS 10,000 AI Ideas Competition. 4-agent parallel pipeline converting meeting audio into structured sprint artifacts using Whisper + Pyannote + Gemini 2.5 Flash.
+
+---
+
+### `// tech stack`
+
+```
+Training & Alignment   SFT · DPO · GRPO · LoRA/QLoRA · RAG Pipelines
+ML & LLMs              PyTorch · HuggingFace Transformers · LangChain · Ollama
+Multimodal & Docs      Vision-Language Models · PaddleOCR · PDF Parsing
+Evaluation             ROUGE · METEOR · BERTScore · G-Eval · LLM-as-judge
+MLOps & Infra          MLflow · Weights & Biases · Docker · FastAPI · Remote GPU
+Databases              PostgreSQL · Pinecone · Neon DB · MongoDB
+Languages              Python · C/C++
 ```
 
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adiaparmar/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adiaparmar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-  </a>
-</p>
-
 ---
-
-
-## 🤖 AI/ML Tech Stack
-
-### 🧠 Core AI/ML Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-</p>
-
-### 🦜 LLM & NLP Tools
-<p>
-  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/🦜%20LangChain-121212?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" alt="Ollama"/>
-</p>
-
-### 🗄️ Vector Databases & RAG
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Embeddings-FF6F61?style=for-the-badge" alt="Embeddings"/>
-  <img src="https://img.shields.io/badge/Semantic%20Search-4CAF50?style=for-the-badge" alt="Semantic Search"/>
-</p>
-
-### 📊 Data Science & Analysis
-<p>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-</p>
-
-### ⚙️ MLOps & Deployment
-<p>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" alt="Weights & Biases"/>
-  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
----
-
-## 💻 Full Stack Development
-
-### Frontend Technologies
-<p>
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adiaparmar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaparmar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/> 
-</p>
-
-<p align="center">
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiaparmar&theme=radical" alt="GitHub Profile Summary"/>
-</p>
-
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adiaparmar/Adiaparmar/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=AI-Study-Material-Generator&theme=radical)](https://github.com/Adiaparmar/AI-Study-Material-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=Agentic-Chatbot-FastAPI&theme=radical)](https://github.com/Adiaparmar/Agentic-Chatbot-FastAPI)
-
-</div>
-
-
-<div align="center">
-  <p>⭐️ From <a href="https://github.com/Adiaparmar">Adiaparmar</a></p>
-  <p><em>Thanks for visiting! Feel free to reach out for collaborations or discussions</em></p>
+<sub>Open to research collaborations and AI/ML roles · <a href="mailto:adiaparmar.dev@gmail.com">adiaparmar.dev@gmail.com</a></sub>
 </div>
