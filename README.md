@@ -9,19 +9,11 @@
 
 ---
 
-### `// selected projects`
-
 <div align="center">
 
-[![ScrumFlow-AI](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=ScrumFlow-AI&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/ScrumFlow-AI)
-[![Invoice-Extraction-VLM](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=Invoice-Extraction-VLM&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/Invoice-Extraction-VLM)
-
-[![DocuMed-Medical_AI_Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=DocuMed-Medical_AI_Assistant&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/DocuMed-Medical_AI_Assistant)
-[![Kidney-Disease-Classification](https://github-readme-stats.vercel.app/api/pin/?username=Adiaparmar&repo=Kidney-Disease-Classification&theme=github_dark&hide_border=true)](https://github.com/Adiaparmar/Kidney-Disease-Classification)
+[![projects](./projects.svg)](https://github.com/Adiaparmar)
 
 </div>
-
-> **ScrumFlow.ai** — Top 300 globally, AWS 10,000 AI Ideas Competition. 4-agent parallel pipeline converting meeting audio into structured sprint artifacts using Whisper + Pyannote + Gemini 2.5 Flash.
 
 ---
 
